@@ -164,7 +164,7 @@ class _AppLayoutState extends State<AppLayout> {
 
             // Rest of the stuff idk what they are for
             const Article(),
-            SizedBox(
+            const SizedBox(
               height: 10,
             ),
 
@@ -173,7 +173,7 @@ class _AppLayoutState extends State<AppLayout> {
               color: Color(0xFFF5F9FE),
             ),
 
-            SizedBox(
+            const SizedBox(
               height: 15,
             ),
             const Article(),
